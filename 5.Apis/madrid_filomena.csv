@@ -1,0 +1,11 @@
+latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
+40.386642,-3.6760864,667.0,7200,Europe/Madrid,GMT+2
+
+time,temperature_2m_max (°C),temperature_2m_min (°C),snowfall_sum (cm)
+2021-01-06,5.8,-4.1,0.00
+2021-01-07,2.5,-2.4,1.05
+2021-01-08,1.4,-2.0,9.52
+2021-01-09,0.6,-1.4,22.89
+2021-01-10,3.7,-1.5,0.00
+2021-01-11,5.8,-3.1,0.00
+2021-01-12,4.0,-6.5,0.00
